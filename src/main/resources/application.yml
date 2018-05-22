@@ -1,0 +1,11 @@
+server:
+  port: 8094
+  context-path: /oneusop-im-server
+  display-name: oneusop-im-server
+management.security.enabled: false
+spring:
+logging:
+  level:
+    com.oneusop.im: info
+
+
